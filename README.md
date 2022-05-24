@@ -1,5 +1,7 @@
 # Detection-of-Sus-accounts
-A sentiment analyzer of lines, trained using 1.6 million tweets of the Sentiment140 dataset.
+A sentiment analyzer of lines, trained using 1.6 million tweets of the Sentiment140 dataset. Completed as part of Minor Project (IT3270) requirement for the academic session 2021-2022.
+
+This served as the first phase of a complete comprehensive analysis report. The second phase being a malicious URL checker and the third is a web ccrawler using beautifulsoup of python.
 
 ### Content of Dataset
 
